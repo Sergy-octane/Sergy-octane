@@ -12,7 +12,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  About me 
 </a>
 
-I´m a  student who lives in Colombia. I also enjoy programing in C++ and Python because they challenge me more. I love it when i can finally solve a difficult problem.
+I´m a  student who lives in Colombia. I also enjoy programing in C++ and Python because they give me more challenges. I love it when i can finally solve a difficult problem.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 </a>
