@@ -12,7 +12,14 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  About me 
 </a>
 
-I´m a  student who lives in Colombia. I also enjoy programing in C++ and Python because they give me more challenges. I love it when i can finally solve a difficult problem.
+👋 ¡Hola! Soy Sergy Ferreira, un desarrollador web junior de Colombia con una fuerte pasión por la programación y el aprendizaje continuo. 
+
+💻 Actualmente estoy formándome en tecnologías como HTML, CSS, Java, C++, Python y bases de datos NoSQL. Me gusta resolver problemas, entender cómo funcionan las cosas desde dentro y construir proyectos que combinen lógica y creatividad.
+
+🚀 Estoy enfocado en crecer como desarrollador full stack, con énfasis en el desarrollo web. He trabajado en pequeños proyectos personales y sigo ampliando mis conocimientos en metodologías ágiles como Scrum y fundamentos de ciberseguridad.
+
+📚 Siempre estoy aprendiendo algo nuevo y subiendo mis avances a este perfil. ¡Gracias por pasarte por aquí!
+
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 </a>
