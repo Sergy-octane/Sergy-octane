@@ -8,8 +8,7 @@
 </a>
 
 </a>
-
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  About me 
+About me 
 </a>
 
 👋 ¡Hola! Soy Sergy Ferreira, un desarrollador web junior de Colombia con una fuerte pasión por la programación y el aprendizaje continuo. 
@@ -37,6 +36,12 @@
  <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </a>
+<span>
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
+</span>
 
 
 
