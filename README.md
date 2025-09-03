@@ -11,14 +11,13 @@
 About me 
 </a>
 
-👋 ¡Hola! Soy Sergy Ferreira, un desarrollador web junior de Colombia con una fuerte pasión por la programación y el aprendizaje continuo. 
+👋 Hi! I’m Sergy Ferreira, a junior web developer from Colombia with a strong passion for programming and continuous learning.
 
-💻 Actualmente estoy formándome en tecnologías como HTML, CSS, Java, C++, Python y bases de datos NoSQL. Me gusta resolver problemas, entender cómo funcionan las cosas desde dentro y construir proyectos que combinen lógica y creatividad.
+💻 I’m currently training in technologies such as HTML, CSS, Java, C++, Python, and NoSQL databases. I enjoy solving problems, understanding how things work under the hood, and building projects that combine logic and creativity.
 
-🚀 Estoy enfocado en crecer como desarrollador full stack, con énfasis en el desarrollo web. He trabajado en pequeños proyectos personales y sigo ampliando mis conocimientos en metodologías ágiles como Scrum y fundamentos de ciberseguridad.
+🚀 My focus is on growing as a full stack developer, with an emphasis on web development. I’ve worked on small personal projects and I’m continuously expanding my knowledge in agile methodologies like Scrum and cybersecurity fundamentals.
 
-📚 Siempre estoy aprendiendo algo nuevo y subiendo mis avances a este perfil. ¡Gracias por pasarte por aquí!
-
+📚 I’m always learning something new and sharing my progress here. Thanks for stopping by!
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 </a>
