@@ -11,13 +11,11 @@
 About me 
 </a>
 
-👋 Hi! I’m Sergy Ferreira, a junior web developer from Colombia with a strong passion for programming and continuous learning.
+💻 I’m currently focusing on Python, SQL, data analysis, and machine learning, while strengthening my foundations in C++ and Java. I enjoy solving problems, exploring how things work under the hood, and building projects that combine logic, usability, and data-driven insights.
 
-💻 I’m currently training in technologies such as HTML, CSS, Java, C++, Python, and NoSQL databases. I enjoy solving problems, understanding how things work under the hood, and building projects that combine logic and creativity.
+🚀 My current goal is to grow as a Software Engineer specialized in AI/Data. I’ve worked on small personal and academic projects, applying concepts of web development, agile methodologies (Scrum), and basic cybersecurity.
 
-🚀 My focus is on growing as a full stack developer, with an emphasis on web development. I’ve worked on small personal projects and I’m continuously expanding my knowledge in agile methodologies like Scrum and cybersecurity fundamentals.
-
-📚 I’m always learning something new and sharing my progress here. Thanks for stopping by!
+📚 Here I share my progress, from data analysis notebooks to machine learning models and small apps. I’m always learning something new and excited to contribute to impactful projects.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 </a>
