@@ -11,7 +11,7 @@
 About me 
 </a>
 
-💻 I’m currently focusing on Python, SQL, data analysis, and machine learning, while strengthening my foundations in C++ and Java. I enjoy solving problems, exploring how things work under the hood, and building projects that combine logic, usability, and data-driven insights.
+💻 I’m currently focusing on Python, SQL, data analysis, and machine learning. I enjoy solving problems, exploring how things work under the hood, and building projects that combine logic, usability, and data-driven insights.
 
 🚀 My current goal is to grow as a Software Engineer specialized in AI/Data. I’ve worked on small personal and academic projects, applying concepts of web development, agile methodologies (Scrum), and basic cybersecurity.
 
