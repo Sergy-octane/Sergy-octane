@@ -11,11 +11,11 @@
 About me 
 </a>
 
-💻 I’m currently focusing on Python, SQL, data analysis, and machine learning. I enjoy solving problems, exploring how things work under the hood, and building projects that combine logic, usability, and data-driven insights.
+💻 I’m currently focused on IT Support fundamentals, Windows troubleshooting, and technical problem resolution. I enjoy understanding how systems work under the hood and solving real-world technical issues.
 
-🚀 My current goal is to grow as a Software Engineer specialized in AI/Data. I’ve worked on small personal and academic projects, applying concepts of web development, agile methodologies (Scrum), and basic cybersecurity.
+🛠️ I’m building practical knowledge in system configuration, hardware/software diagnostics, basic networking, and incident documentation. My background in software development helps me approach technical problems with structured and logical thinking.
 
-📚 Here I share my progress, from data analysis notebooks to machine learning models and small apps. I’m always learning something new and excited to contribute to impactful projects.
+🔐 My long-term goal is to grow within IT Support and progressively specialize in cybersecurity. Here I share my learning progress, technical notes, and small hands-on projects related to system support and troubleshooting.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 </a>
